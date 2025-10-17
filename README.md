@@ -1,6 +1,6 @@
 # CFE-IA-E8
 
-# Clasificación Logística de Rumores 🗞️
+# Clasificación Logística de Rumores
 
 ## Este proyecto utiliza un conjunto de publicaciones y metadatos para predecir si un texto corresponde o no a un rumor, aplicando técnicas de procesamiento de texto y un modelo de Regresión Logística.
 
